@@ -1,0 +1,14 @@
+/Users/isadora/tde14/bin/Debug/net8.0/tde14
+/Users/isadora/tde14/bin/Debug/net8.0/tde14.deps.json
+/Users/isadora/tde14/bin/Debug/net8.0/tde14.runtimeconfig.json
+/Users/isadora/tde14/bin/Debug/net8.0/tde14.dll
+/Users/isadora/tde14/bin/Debug/net8.0/tde14.pdb
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.AssemblyInfoInputs.cache
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.AssemblyInfo.cs
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.csproj.CoreCompileInputs.cache
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.dll
+/Users/isadora/tde14/obj/Debug/net8.0/refint/tde14.dll
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.pdb
+/Users/isadora/tde14/obj/Debug/net8.0/tde14.genruntimeconfig.cache
+/Users/isadora/tde14/obj/Debug/net8.0/ref/tde14.dll
